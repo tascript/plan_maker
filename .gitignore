@@ -1,0 +1,7 @@
+/vendor/bundle
+.git
+Gemfile.lock
+.DS_Store
+.ruby-version
+.bundle
+database.yml

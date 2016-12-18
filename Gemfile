@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+gem 'rack', '1.6.4'
+gem 'sinatra'
+gem 'activerecord'
+gem 'sinatra-contrib'
+gem 'rest-client'
+gem 'pg'
+gem 'activerecord'
+gem 'sinatra-activerecord'
+gem 'rake'
